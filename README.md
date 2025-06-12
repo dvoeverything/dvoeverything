@@ -39,16 +39,16 @@
 
 ## 📊 GitHub Stats
 
-![Devotion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dvoeverything&show_icons=true&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dvoeverything&layout=compact&hide_border=true)
+![Devotion's GitHub Stats](
+![](https://github-readme-stats.vercel.app/api?username=dvoeverything&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dvoeverything&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dvoeverything&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 ## 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devotionchikutuva/) 
-[![Email](https://img.shields.io/badge/Email-devotion%40nd.edu-critical?style=for-the-badge&logo=gmail)](mailto:devotion@nd.edu)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devotion-chikutuva/) 
 ---
 
 > **Motto:** *Build boldly, learn relentlessly, and leave the world more curious than you found it.* ✨
