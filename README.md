@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 
-👋 **Hi, I'm Devotion** — an entrepreneurial engineer turning deep‑tech ideas into real‑world impact at the intersection of embedded AI, IoT, and STEM education.
+👋 **Hi, I'm Devotion** — an entrepreneurial engineer turning deep‑tech ideas into real‑world impact at the intersection of embedded AI, and IoT.
 
 🔭 **Working on:** Edge‑ML voice assistant for Raspberry Pi • AI‑generated STEAM kit subscription platform • ROS‑based poultry monitor.
 
