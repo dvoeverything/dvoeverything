@@ -4,7 +4,7 @@
 
 👋 **Hi, I'm Devotion** — an entrepreneurial engineer turning deep‑tech ideas into real‑world impact at the intersection of embedded AI, and IoT.
 
-🔭 **Working on:** Edge‑ML voice assistant for Raspberry Pi • AI‑generated STEAM kit subscription platform • ROS‑based poultry monitor.
+🔭 **Working on:** Edge‑ML voice assistant for Raspberry Pi.
 
 🌱 **Currently learning:** Rust, ROS 2 robotics, and scalable product management.
 
