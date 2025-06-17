@@ -12,10 +12,6 @@
 
 🔍 **Interested in:** Edge AI, hardware‑software co‑design, machine learning fairness, and K‑12 STEM education.
 
-⚡ **Fun Fact:** I once debugged a BLE sensor while cycling a 60‑mile fundraiser ride. 🚴‍♂️💨
-
-
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
