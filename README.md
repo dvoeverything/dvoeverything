@@ -29,7 +29,7 @@
 <div align="left">
 </div>
 
-> Explore more in my [repositories](https://github.com/dvoeverything?tab=repositories) — I pin my favorites.
+> Explore more in my [repositories](https://github.com/dvoeverything?tab=repositories).
 
 ---
 
