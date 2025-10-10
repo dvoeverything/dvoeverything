@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 
-👋 **Hi, I'm Devotion** - an entrepreneurial engineer turning deep‑tech ideas into real‑world impact at the intersection of embedded AI, Data Analytics and IoT.
+👋 **Hi, I'm Devotion** - an entrepreneurial engineer turning deep‑tech ideas into real‑world impact at the intersection of Business, Analytics, and Engineering.
 
 🔭 **Working on:** Edge‑ML voice assistant for Raspberry Pi.
 
