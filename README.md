@@ -13,12 +13,28 @@
 🔍 **Interested in:** Edge AI, Data Analytics hardware‑software co‑design, machine learning, and K‑12 STEM education.
 
 <p align="left">
-  <img src=".../rust-original.svg" height="40" alt="rust" style="vertical-align:middle; margin-right:12px;" />
-  <img src=".../c-original.svg" height="40" alt="c" style="vertical-align:middle; margin-right:12px;" />
-  <img src=".../cplusplus-original.svg" height="40" alt="c++" style="vertical-align:middle; margin-right:12px;" />
-  <img src=".../python-original.svg" height="40" alt="python" style="vertical-align:middle; margin-right:12px;" />
-  <img src=".../raspberrypi-original.svg" height="40" alt="raspberry pi" style="vertical-align:middle;" />
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg"
+         height="40" alt="Rust" style="vertical-align:middle; margin-right:12px;" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+         height="40" alt="C" style="vertical-align:middle; margin-right:12px;" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+         height="40" alt="C++" style="vertical-align:middle; margin-right:12px;" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+         height="40" alt="Python" style="vertical-align:middle; margin-right:12px;" />
+  </a>
+  <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"
+         height="40" alt="Raspberry Pi" style="vertical-align:middle;" />
+  </a>
 </p>
+
 
 
 
