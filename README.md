@@ -12,7 +12,36 @@
 
 🔍 **Interested in:** Edge AI, Data Analytics hardware‑software co‑design, machine learning, and K‑12 STEM education.
 
-<p align="left"><a href="https://www.rust-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Rust" /></a>&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" /></a>&nbsp;&nbsp;<a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" /></a>&nbsp;&nbsp;<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /></a>&nbsp;&nbsp;<a href="https://www.raspberrypi.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi" /></a></p>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.rust-lang.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" height="40" alt="Rust">
+      </a>
+    </td>
+    <td>
+      <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C">
+      </a>
+    </td>
+    <td>
+      <a href="https://isocpp.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.python.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.raspberrypi.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" alt="Raspberry Pi">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
