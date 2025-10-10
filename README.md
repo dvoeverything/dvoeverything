@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 
-👋 **Hi, I'm Devotion** — an entrepreneurial engineer turning deep‑tech ideas into real‑world impact at the intersection of embedded AI, and IoT.
+👋 **Hi, I'm Devotion** - an entrepreneurial engineer turning deep‑tech ideas into real‑world impact at the intersection of embedded AI, Data Analytics and IoT.
 
 🔭 **Working on:** Edge‑ML voice assistant for Raspberry Pi.
 
@@ -10,9 +10,9 @@
 
 💬 **Ask me about:** Embedded ML, IoT security, teaching robotics, or long‑distance charity cycling!
 
-🔍 **Interested in:** Edge AI, hardware‑software co‑design, machine learning fairness, and K‑12 STEM education.
+🔍 **Interested in:** Edge AI, Data Analytics hardware‑software co‑design, machine learning, and K‑12 STEM education.
 
-<div align="left">
+<div align="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
