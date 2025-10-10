@@ -12,15 +12,14 @@
 
 🔍 **Interested in:** Edge AI, Data Analytics hardware‑software co‑design, machine learning, and K‑12 STEM education.
 
-   <div align="left">
-  <div style="display:flex; align-items:center; gap:12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo" />
-  </div>
-</div>
+<p align="left">
+  <img src=".../rust-original.svg" height="40" alt="rust" style="vertical-align:middle; margin-right:12px;" />
+  <img src=".../c-original.svg" height="40" alt="c" style="vertical-align:middle; margin-right:12px;" />
+  <img src=".../cplusplus-original.svg" height="40" alt="c++" style="vertical-align:middle; margin-right:12px;" />
+  <img src=".../python-original.svg" height="40" alt="python" style="vertical-align:middle; margin-right:12px;" />
+  <img src=".../raspberrypi-original.svg" height="40" alt="raspberry pi" style="vertical-align:middle;" />
+</p>
+
 
 
 
