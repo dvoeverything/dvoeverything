@@ -1,6 +1,6 @@
 
 
-## 💫 About Me
+## About
 
 AI Agents for healthcare
 
